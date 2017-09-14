@@ -1,5 +1,5 @@
 # superformula
 
-I explore the superformula.
+I explore the superformula contents.
 
 ## contents
